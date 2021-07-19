@@ -62,8 +62,9 @@ function App() {
             </div>
             <small>
               <a
-                href="https://github.com/VampirePrin4jc/Vanilla-Weather-App"
+                href="https://github.com/VampirePrin4jc/react-weather-app"
                 target="_blank"
+                rel="noreferrer"
               >
                 Open-source code
               </a>
