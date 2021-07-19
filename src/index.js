@@ -60,6 +60,15 @@ function App() {
                 </ul>
               </div>
             </div>
+            <small>
+              <a
+                href="https://github.com/VampirePrin4jc/Vanilla-Weather-App"
+                target="_blank"
+              >
+                Open-source code
+              </a>
+              by Kathryn Lotzer
+            </small>
           </div>
         </div>
       </div>
